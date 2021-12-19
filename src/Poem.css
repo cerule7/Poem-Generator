@@ -1,0 +1,14 @@
+.text {
+   position: absolute;
+   margin-left: 5%;
+   bottom: 1vw;
+   background: none no-repeat scroll 0 0 #fff;
+   outline: white solid 10px;
+   font-family: 'Courier New', Courier, monospace;
+}
+
+.poem { 
+   display: block;
+   margin-left: -30%;
+   text-align: center;
+}
